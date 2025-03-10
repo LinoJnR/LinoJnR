@@ -41,9 +41,8 @@
 <section>
     <h2>My Work</h2>
     <ul>
-        <li><a href="#">Project 1: Retail Sales Data Analysis</a></li>
-        <li><a href="#">Project 2: Customer Segmentation</a></li>
-        <li><a href="#">Project 3: Sales Forecasting</a></li>
+        <li><a href="#">Project 1: WCED Data Analysis</a></li>
+        <li><a href="#">Project 2: Codeless chatbot</a></li>
     </ul>
 </section>
 
