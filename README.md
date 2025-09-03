@@ -16,8 +16,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damamkhululi/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mkhululidama/)
 
-Hello,👨‍🍳 My name Mkhululi Dama. I am a Data Analyst. I specialize in Microsoft excel/Googlesheets, Power Bi, SQL,and Python
-
+Hello! 👨‍🍳 I’m Mkhululi Dama, a Data Analyst who brings data to life. I specialize in Microsoft Excel, Power BI, SQL, Python, 
+and creating interactive dashboards.
 - I bring data to life, turning raw numbers into meaningful insights.
   
 - 🤝 I’m deepening my knowledge in Python and R.
