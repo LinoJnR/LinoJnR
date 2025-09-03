@@ -6,7 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://evyom.com/wp-content/uploads/2020/05/analytics-app.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dama-Mkhululi&label=Profile%20views&color=0e75b6&style=flat" alt="Dama- Mkhululi" /> </p>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=Dama-Mkhululi&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Dama-Mkhululi GitHub Profile Views" />
+</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-damamkhululi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damamkhululi@gmail.com)](mailto:damamkhululi@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/damamkhululi/)
