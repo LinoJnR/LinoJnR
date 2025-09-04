@@ -8,7 +8,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=Dama-Mkhululi&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=linojnre&abbreviated=true)"
     alt="Dama-Mkhululi GitHub Profile Views" />
 </p>
 
